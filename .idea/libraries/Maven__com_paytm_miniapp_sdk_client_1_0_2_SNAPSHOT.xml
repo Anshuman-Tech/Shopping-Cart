@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.paytm:miniapp-sdk-client:1.0.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/paytm/miniapp-sdk-client/1.0.2-SNAPSHOT/miniapp-sdk-client-1.0.2-20200529.082735-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/paytm/miniapp-sdk-client/1.0.2-SNAPSHOT/miniapp-sdk-client-1.0.2-20200529.082735-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/paytm/miniapp-sdk-client/1.0.2-SNAPSHOT/miniapp-sdk-client-1.0.2-20200529.082735-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
