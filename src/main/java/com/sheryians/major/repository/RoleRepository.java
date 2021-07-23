@@ -1,10 +1,8 @@
 package com.sheryians.major.repository;
 
-import com.sheryians.major.model.Category;
+import com.sheryians.major.model.Role;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
-
-public interface CategoryRepository extends JpaRepository<Category,Integer> {
-
+public interface RoleRepository extends JpaRepository<Role,Integer> {
 }
